@@ -2,7 +2,7 @@
 
 I am ABDULKARIM UMAR, a Software Engineer and Mobile Engineer with strong competencies in backend development, secure software design, and modern cross-platform application engineering. I focus on building reliable, scalable, and security-driven systems across web, mobile, and desktop platforms.
 
-Core Strengths
+# Core Strengths
 
 React Native (TypeScript)
 Cross-platform mobile development, clean architecture, reusable UI components, API integration, and performance optimization.
@@ -19,7 +19,7 @@ Encryption, authentication systems, OTP flows, SQL injection prevention, secure 
 C++ (Foundational)
 Algorithms, data structures, computational thinking, and problem-solving fundamentals.
 
-Professional Interests
+# Professional Interests
 
 Cross-Platform Mobile Engineering (React Native + TypeScript)
 
@@ -31,15 +31,15 @@ Scalable System Design
 
 Startup-Focused Engineering & Product Prototyping
 
-Current Focus
+# Current Focus
 
 Developing production-quality mobile applications using React Native + TypeScript, integrating secure backend services, and leveraging Python for automation and intelligent systems. I am also focused on building robust authentication frameworks and enhancing application security across the full stack.
 
-Vision
+# Vision
 
 To build secure, scalable, and user-centric digital products—combining clean engineering, modern UI/UX principles, and strong security foundations.
 
-Portfolio / Project Showcase
+# Portfolio / Project Showcase
 Convenient Shop Management System
 
 A Python + CustomTkinter desktop application designed for retail operations.
