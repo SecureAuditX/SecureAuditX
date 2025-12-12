@@ -1,5 +1,69 @@
-# 💫 About Me:
-Hi! I’m ABDULKARIM UMAR, a passionate Software Engineer and Python Developer with a love for building secure, efficient, and scalable solutions.<br>I specialize in:<br><br>🐍 Python (Extensive libraries: automation, AI, data, security, backend)<br><br>🗄 MySQL (Database design, optimization, security)<br><br>💻 C++ (Basic) (Algorithms, fundamentals, low-level logic)<br><br>🔐 Cybersecurity Practices (Encryption, OTP authentication, SQL injection prevention, secure coding)<br><br>Special Interests<br>🛡 Defense & Secure Software Development<br>🤖 Artificial Intelligence (AI-powered automation & security tools)<br>🚀 Startup Building & Tech Innovation<br><br>📚 Current Focus: Designing secure authentication systems, AI integrations, and advanced defense mechanisms in software.<br>💡 Vision: Create technology that is secure, reliable, and empowering for everyone.<br><br>📫 Let’s Connect:<br>Email: abdulkarimumar86@gmail.com
+# 💫About Me
+
+I am ABDULKARIM UMAR, a Software Engineer and Mobile Engineer with strong competencies in backend development, secure software design, and modern cross-platform application engineering. I focus on building reliable, scalable, and security-driven systems across web, mobile, and desktop platforms.
+
+Core Strengths
+
+React Native (TypeScript)
+Cross-platform mobile development, clean architecture, reusable UI components, API integration, and performance optimization.
+
+Python Development
+Backend systems, automation, AI-driven workflows, CustomTkinter applications, and security-focused development.
+
+MySQL
+Database design, modeling, indexing, optimization, and secure DB operations.
+
+Cybersecurity Practices
+Encryption, authentication systems, OTP flows, SQL injection prevention, secure coding, and defense-oriented system architecture.
+
+C++ (Foundational)
+Algorithms, data structures, computational thinking, and problem-solving fundamentals.
+
+Professional Interests
+
+Cross-Platform Mobile Engineering (React Native + TypeScript)
+
+Secure Software Engineering & Defensive Development
+
+AI-Powered Automation and Security
+
+Scalable System Design
+
+Startup-Focused Engineering & Product Prototyping
+
+Current Focus
+
+Developing production-quality mobile applications using React Native + TypeScript, integrating secure backend services, and leveraging Python for automation and intelligent systems. I am also focused on building robust authentication frameworks and enhancing application security across the full stack.
+
+Vision
+
+To build secure, scalable, and user-centric digital products—combining clean engineering, modern UI/UX principles, and strong security foundations.
+
+Portfolio / Project Showcase
+Convenient Shop Management System
+
+A Python + CustomTkinter desktop application designed for retail operations.
+Features include user authentication, shopping cart management, dynamic dashboards, MySQL-powered backend, secure database operations, and modular UI architecture.
+
+Secure Authentication Framework
+
+A Python-based authentication system implementing OTP verification, encryption, hash-based password storage, and SQL injection prevention mechanisms.
+
+Online Video Store Platform
+
+A PHP + MySQL solution supporting customer registration, login, product browsing, cart management, and order processing. Includes structured database design and optimized query execution.
+
+Algorithmic Toolkit (C++ + Python)
+
+A set of algorithm implementations for academic and practical use, including greedy algorithms, optimization problems, and secure logic workflows.
+
+AI-Driven Automation Tools
+
+Lightweight Python automation scripts designed for security workflows, productivity enhancement, and backend operations.
+
+Contact
+
+Email: abdulkarimumar86@gmail.com
 
 
 ## 🌐 Socials:
