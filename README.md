@@ -1,6 +1,6 @@
 # 💫About Me
 
-I am ABDULKARIM UMAR, a Software Engineer and Frontend Developer (Web & Mobile) with strong competencies in frontend development, secure software and UI design, and modern cross-platform application engineering. I focus on building reliable, scalable, and security-driven systems across web, mobile, and desktop platforms.
+I am ABDULKARIM UMAR, a Software Engineer and Frontend Developer (Web & Mobile) with strong competencies in frontend development, secure software and UI design, and modern cross-platform application engineering. I focus on building reliable, scalable, and security-driven systems across web, mobile, and desktop platforms, I am currently journey to Full-Stack Development for both web and mobile using React & React Native.
 
 # Core Strengths
 
@@ -8,7 +8,7 @@ React Native (TypeScript)
 Cross-platform mobile development, clean architecture, reusable UI components, API integration, and performance optimization.
 
 React (JavaScript)
-Next.js, Clean UI, resuable UI components, and more
+Next.js, Clean UI, resuable UI components, Context API, and more
 
 Python Development
 Backend systems, automation, AI-driven workflows, CustomTkinter applications, and security-focused development.
@@ -56,7 +56,7 @@ Online Video Store Platform
 
 A PHP + MySQL solution supporting customer registration, login, product browsing, cart management, and order processing. Includes structured database design and optimized query execution.
 
-Algorithmic Toolkit (C++ + Python)
+Algorithmic Toolkit (Javascript + Python)
 
 A set of algorithm implementations for academic and practical use, including greedy algorithms, optimization problems, and secure logic workflows.
 
