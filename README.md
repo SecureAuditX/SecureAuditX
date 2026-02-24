@@ -36,7 +36,7 @@ Startup-Focused Engineering & Product Prototyping
 
 # Current Focus
 
-Developing production-quality mobile applications using React Native + TypeScript, Learning to integrating secure backend services, and leveraging Python for automation and intelligent systems. I am also focused on building robust authentication frameworks and enhancing application security across the full stack.
+Developing production-quality web app using Nextjs and mobile applications using React Native + TypeScript, Learning to integrating secure backend services, and leveraging Python for automation and intelligent systems. I am also focused on building robust authentication frameworks and enhancing application security across the full stack.
 
 # Vision
 
