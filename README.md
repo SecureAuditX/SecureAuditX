@@ -122,86 +122,7 @@ The pre-review system uses a **deterministic rule engine** to validate applicati
 
 ---
 
-# 03. 🔐 Cybersecurity & Product Security Engineering
-
-**Application Security • Secure Software • Security Tooling**
-
-A major part of my current engineering direction is building software with security considered throughout the development lifecycle.
-
-My work and projects in this area focus on:
-
-* 🔐 Authentication and authorization
-* 🪪 JWT and refresh-token architecture
-* 🔑 OTP authentication flows
-* 🛡️ Secure API design
-* 💉 SQL injection prevention
-* 🧹 Input validation and sanitization
-* 🔒 Encryption
-* 🗄️ Secure database operations
-* 🌐 API security
-* 🧩 Secure architecture
-* 🔍 Security testing
-* 📦 Dependency and supply-chain security
-* 🏗️ Security-by-design
-* 🔄 Secure development lifecycle
-* 🛡️ Defensive application engineering
-
-### Related Engineering Direction
-
-**Application Security → Product Security → Secure Software Engineering**
-
-My objective is to combine software engineering and security so that security is incorporated into the **architecture, implementation, deployment, and maintenance** of a product.
-
----
-
-# 04. 🤖 AI Fraud Detection System
-
-**AI • Security • Fraud Detection**
-
-A planned/current engineering project focused on applying machine learning and software engineering techniques to **fraud detection and suspicious-activity analysis**.
-
-### Areas
-
-* Fraud detection
-* Data processing
-* Feature engineering
-* Classification
-* Anomaly detection
-* Risk scoring
-* Security analytics
-* API integration
-* Model-driven decision systems
-
-### Technology Direction
-
-`Python` `scikit-learn` `Pandas` `NumPy` `TensorFlow` `PostgreSQL` `REST APIs`
-
----
-
-# 05. 🛡️ Cybersecurity Dashboard
-
-**Security Monitoring • Visualization • Security Analytics**
-
-A security-focused dashboard concept for visualizing and analyzing application/system security information.
-
-### Areas
-
-* Security metrics
-* Event monitoring
-* Risk visualization
-* Security analytics
-* Dashboard architecture
-* Data visualization
-* API integration
-* Security-oriented UX
-
-### Technology Direction
-
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Recharts` `PostgreSQL` `REST APIs`
-
----
-
-# 06. 📱 DayOne — Student Productivity & Health Platform
+# 03. 📱 DayOne — Student Productivity & Health Platform
 
 **React Native • Expo • TypeScript • Mobile Product**
 
@@ -209,7 +130,7 @@ DayOne is a cross-platform productivity application combining **task management,
 
 ### Technology
 
-`React Native` `Expo` `TypeScript`
+`Non-Disclosure Information`
 
 ### Product Areas
 
@@ -229,24 +150,15 @@ DayOne is a cross-platform productivity application combining **task management,
 
 ### Engineering Areas
 
-* Component-based architecture
-* Reusable UI components
-* Mobile navigation
-* REST API integration
-* Local caching
-* Push notifications
-* Authentication
-* Analytics
-* Internationalization
-* Native platform integration
+* Non-Disclosure Information
 
 ### Technology Direction
 
-`React Native` `Expo SDK` `TypeScript` `Laravel` `MySQL` `JWT` `Firebase Cloud Messaging` `PostHog` `Firebase Analytics` `HealthKit` `Google Health Connect`
+`Non-Disclosure Information`
 
 ---
 
-# 07. 💬 Real-Time Chat & Payment Application
+# 04. 💬 Real-Time Chat & Payment Application - coming soon...2027
 
 **Mobile Application • Real-Time Communication • Digital Payments**
 
@@ -254,22 +166,15 @@ A planned mobile product combining **real-time communication with digital paymen
 
 ### Engineering Areas
 
-* User authentication
-* Real-time messaging
-* Conversation management
-* Payment workflows
-* Transaction records
-* Secure API communication
-* Push notifications
-* Mobile-first UX
+* Non-Disclosure Information
 
 ### Technology Direction
 
-`React Native` `Expo` `TypeScript` `Node.js` `PostgreSQL` `Redis` `WebSockets` `Socket.IO`
+`Non-Disclosure Information`
 
 ---
 
-# 08. 🤖 AI Video Generator
+# 05. 🤖 AI Video Generator
 
 **AI Application • Full-Stack Web**
 
@@ -291,7 +196,7 @@ A TypeScript-based web application integrating AI-powered video generation workf
 
 ---
 
-# 09. 🛒 Convenient Shop Management System
+# 06. 🛒 Convenient Shop Management System
 
 A Python + CustomTkinter desktop application designed for retail management.
 
@@ -311,7 +216,7 @@ A Python + CustomTkinter desktop application designed for retail management.
 
 ---
 
-# 10. 🎬 Online Video Store Platform
+# 07. 🎬 Online Video Store Platform
 
 A PHP + MySQL web application implementing digital commerce functionality.
 
@@ -331,7 +236,7 @@ A PHP + MySQL web application implementing digital commerce functionality.
 
 ---
 
-# 11. 🧠 Algorithmic Toolkit
+# 08. 🧠 Algorithmic Toolkit
 
 A collection of JavaScript and Python implementations for academic and practical problem solving.
 
@@ -350,18 +255,6 @@ A collection of JavaScript and Python implementations for academic and practical
 
 ---
 
-# 12. 🤖 AI-Driven Automation Tools
-
-A collection of Python utilities and automation workflows for:
-
-* Workflow automation
-* Security-related tasks
-* Data processing
-* Developer productivity
-* Backend utilities
-* Intelligent automation
-
----
 
 # 💻 Technical Expertise
 
