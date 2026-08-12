@@ -1,119 +1,675 @@
-# 💫About Me
+# 👋 Abdulkarim Umar
 
-I am ABDULKARIM UMAR, a Software Engineer and Full-Stack Developer (Web & Mobile), secure software and UI design, and modern cross-platform application engineering. I focus on building reliable, scalable, and security-driven systems across web, mobile, and desktop platforms, I am currently journey to Full-Stack Development for both web and mobile using React & React Native.
+### Software Engineer | Full-Stack Web & Mobile | Application & Product Security
 
-# Core Strengths
+I am a **Software Engineer focused on full-stack web and cross-platform mobile application development**, with a growing specialization in **Application Security and Product Security**.
 
-React Native (TypeScript)
-Cross-platform mobile development, clean architecture, reusable UI components, API integration, and performance optimization.
+I design and build software across the full product lifecycle — from **UI/UX and mobile applications to APIs, backend services, databases, cloud infrastructure, and security controls**.
 
-React (JavaScript)
-Next.js, Clean UI, resuable UI components, Context API, and more
+My primary development stack is **React Native + Expo + TypeScript** for mobile and **React + Next.js + TypeScript** for web, supported by backend technologies including **Laravel, Node.js/TypeScript, Spring Boot, PHP, Python, PostgreSQL, MySQL, MongoDB, and Redis**.
 
-Python Development
-Backend systems, automation, AI-driven workflows, CustomTkinter applications, and security-focused development.
+I work on both **product engineering and security-driven software development**, with an emphasis on maintainable architecture, secure implementation, scalable systems, and practical user experiences.
 
-MySQL/PostgreSQL
-Database design, modeling, indexing, optimization, and secure DB operations.
-
-Cybersecurity Practices
-Encryption, authentication systems, OTP flows, SQL injection prevention, secure coding, and defense-oriented system architecture.
-
-JavaScript (Foundational)
-Algorithms, data structures, computational thinking, and problem-solving fundamentals.
-
-# Professional Interests
-
-Cross-Platform Mobile Engineering (React Native + /JavaScript/TypeScript)
-
-Secure Software Engineering & Defensive Development
-
-AI-Powered Automation and Security
-
-Scalable System Design
-
-Startup-Focused Engineering & Product Prototyping
-
-# Current Focus
-
-Developing production-quality web app using Nextjs and mobile applications using React Native + TypeScript, Learning to integrating secure backend services, and leveraging Python for automation and intelligent systems. I am also focused on building robust authentication frameworks and enhancing application security across the full stack.
-
-# Vision
-
-To build secure, scalable, reliable, and user-centric digital products—combining clean engineering, modern UI/UX principles, and strong security foundations.
-
-# Portfolio / Project Showcase
-Convenient Shop Management System
-
-A Python + CustomTkinter desktop application designed for retail operations.
-Features include user authentication, shopping cart management, dynamic dashboards, MySQL-powered backend, secure database operations, and modular UI architecture.
-
-AI Video Generator
-
-A Typescript project integreted with AI features, and more.
-
-Online Video Store Platform
-
-A PHP + MySQL solution supporting customer registration, login, product browsing, cart management, and order processing. Includes structured database design and optimized query execution.
-
-Algorithmic Toolkit (Javascript + Python)
-
-A set of algorithm implementations for academic and practical use, including greedy algorithms, optimization problems, and secure logic workflows.
-
-AI-Driven Automation Tools
-
-Lightweight Python automation scripts designed for security workflows, productivity enhancement, and backend operations.
-
-Contact
-
-Email: abdulkarimumar86@gmail.com
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/secureauditx) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SecureAuditX) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abdul6arim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SecureAuditX) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulkarimumar86@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)       
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CentOS 7](https://img.shields.io/badge/CentOS%207-262577?style=for-the-badge&logo=centos&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SecureAuditX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SecureAuditX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SecureAuditX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SecureAuditX&limit=20&theme=dark&combine_all_yearly_contributions=true)
+> **Software Engineering • Mobile • Full Stack • Security • System Design**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SecureAuditX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 What I Do
+
+* 📱 Cross-platform mobile application development
+* 🌐 Full-stack web application development
+* ⚙️ REST API and backend engineering
+* 🗄️ Database architecture and optimization
+* 🏗️ System and application architecture
+* 🔐 Authentication, authorization, and secure API design
+* 🛡️ Application Security and Product Security
+* ☁️ Cloud infrastructure and application deployment
+* 🎬 Media streaming and content delivery systems
+* 💳 Digital commerce and payment integrations
+* 🤖 AI-powered applications and automation
+* 🧩 White-label and multi-application platforms
+* 🎨 UI/UX implementation and design systems
+
+---
+
+# ⭐ Featured Engineering Projects
+
+## 01. 📚 StoryStream — Digital Content & White-Label Platform
+
+**Production Content Platform • Multi-Application Architecture • Digital Commerce**
+
+StoryStream is a production-oriented digital content platform supporting **novels, comics, and video content**, developed as part of a larger white-label application ecosystem.
+
+The platform is designed to support **multiple independent branded applications while sharing common backend and infrastructure capabilities**.
+
+### Architecture
+
+```text
+31 Independent Mobile Applications
+              │
+              ▼
+      Shared Backend Codebase
+              │
+              ▼
+       Shared Admin Platform
+              │
+        ┌─────┴─────┐
+        ▼           ▼
+    OSS / CDN   Shared Services
+        │
+        ▼
+31 Independent Databases
+```
+
+### Technology
+
+`UniApp` `Vue 3` `Laravel 13` `PHP 8.4` `PostgreSQL 16` `Redis` `Nginx` `Alibaba Cloud ECS` `Alibaba OSS` `CDN` `HLS` `Vite`
+
+### Engineering Areas
+
+* 📚 Novel, comic, and video content management
+* 🎬 HLS-based video delivery
+* 💰 Coins and subscription systems
+* 💳 Google Play Billing
+* 📱 Android application distribution
+* 🌍 Multi-brand application architecture
+* 🗃️ Independent database per application
+* ☁️ Alibaba Cloud infrastructure
+* 📦 Object storage and CDN delivery
+* 🔐 Authentication and authorization
+* 🛠️ Centralized administration
+* 🌐 Internationalization
+* 🎨 Brand-specific application configuration
+* 📊 Synthetic-user generation
+* 📈 Content engagement simulation
+* 🔄 Background processing and scheduled workflows
+* 🔒 Backend-side validation and security controls
+
+This project involves **production application engineering, digital commerce, cloud infrastructure, mobile distribution, content systems, media delivery, and large-scale application architecture**.
+
+---
+
+# 02. 🛡️ IRB_Smart — Clinical Research & Ethics Management Platform
+
+**Enterprise Application • Workflow Management • Secure Backend Engineering**
+
+IRB_Smart is a clinical research and ethics management platform designed to manage **research applications, ethics review, researcher workflows, meetings, decisions, attachments, and pre-review processes**.
+
+### Technology
+
+`Next.js 15` `TypeScript` `Tailwind CSS v4` `Shadcn UI` `Recharts` `Spring Boot` `Java` `PostgreSQL` `Flyway` `JWT`
+
+### Engineering Areas
+
+* 🧑‍🔬 Researcher application management
+* 📋 Amendment workflows
+* 🔄 Annual continuing-review workflows
+* 🔎 AI-assisted pre-review
+* ⚙️ Rule-engine based validation
+* 📎 Required field and attachment validation
+* 📊 Application scoring
+* 📝 Decision letters
+* 🗓️ Researcher meetings
+* 📑 Agenda and application relationships
+* 🔐 JWT authentication
+* 🗄️ PostgreSQL architecture
+* 🔄 Flyway database migrations
+* 🧩 Modular Spring Boot architecture
+* 🏗️ REST API design
+* 🛡️ Secure enterprise workflow implementation
+
+The pre-review system uses a **deterministic rule engine** to validate application completeness, required information, and required attachments rather than relying solely on generative AI.
+
+---
+
+# 03. 🔐 Cybersecurity & Product Security Engineering
+
+**Application Security • Secure Software • Security Tooling**
+
+A major part of my current engineering direction is building software with security considered throughout the development lifecycle.
+
+My work and projects in this area focus on:
+
+* 🔐 Authentication and authorization
+* 🪪 JWT and refresh-token architecture
+* 🔑 OTP authentication flows
+* 🛡️ Secure API design
+* 💉 SQL injection prevention
+* 🧹 Input validation and sanitization
+* 🔒 Encryption
+* 🗄️ Secure database operations
+* 🌐 API security
+* 🧩 Secure architecture
+* 🔍 Security testing
+* 📦 Dependency and supply-chain security
+* 🏗️ Security-by-design
+* 🔄 Secure development lifecycle
+* 🛡️ Defensive application engineering
+
+### Related Engineering Direction
+
+**Application Security → Product Security → Secure Software Engineering**
+
+My objective is to combine software engineering and security so that security is incorporated into the **architecture, implementation, deployment, and maintenance** of a product.
+
+---
+
+# 04. 🤖 AI Fraud Detection System
+
+**AI • Security • Fraud Detection**
+
+A planned/current engineering project focused on applying machine learning and software engineering techniques to **fraud detection and suspicious-activity analysis**.
+
+### Areas
+
+* Fraud detection
+* Data processing
+* Feature engineering
+* Classification
+* Anomaly detection
+* Risk scoring
+* Security analytics
+* API integration
+* Model-driven decision systems
+
+### Technology Direction
+
+`Python` `scikit-learn` `Pandas` `NumPy` `TensorFlow` `PostgreSQL` `REST APIs`
+
+---
+
+# 05. 🛡️ Cybersecurity Dashboard
+
+**Security Monitoring • Visualization • Security Analytics**
+
+A security-focused dashboard concept for visualizing and analyzing application/system security information.
+
+### Areas
+
+* Security metrics
+* Event monitoring
+* Risk visualization
+* Security analytics
+* Dashboard architecture
+* Data visualization
+* API integration
+* Security-oriented UX
+
+### Technology Direction
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Recharts` `PostgreSQL` `REST APIs`
+
+---
+
+# 06. 📱 DayOne — Student Productivity & Health Platform
+
+**React Native • Expo • TypeScript • Mobile Product**
+
+DayOne is a cross-platform productivity application combining **task management, reminders, health activities, progress tracking, gamification, and global productivity insights**.
+
+### Technology
+
+`React Native` `Expo` `TypeScript`
+
+### Product Areas
+
+* ✅ Task management
+* 📅 Scheduling
+* 🔁 Recurring tasks
+* 🔔 Reminders
+* 📈 Productivity analytics
+* 🔥 Streak tracking
+* 🏆 Global leaderboard
+* 🪙 Gamification
+* 💧 Water-intake tracking
+* 🍎 Daily health activities
+* 🌍 Internationalization
+* 🌙 Automatic theme detection
+* 📱 Mobile-first UX
+
+### Engineering Areas
+
+* Component-based architecture
+* Reusable UI components
+* Mobile navigation
+* REST API integration
+* Local caching
+* Push notifications
+* Authentication
+* Analytics
+* Internationalization
+* Native platform integration
+
+### Technology Direction
+
+`React Native` `Expo SDK` `TypeScript` `Laravel` `MySQL` `JWT` `Firebase Cloud Messaging` `PostHog` `Firebase Analytics` `HealthKit` `Google Health Connect`
+
+---
+
+# 07. 💬 Real-Time Chat & Payment Application
+
+**Mobile Application • Real-Time Communication • Digital Payments**
+
+A planned mobile product combining **real-time communication with digital payment functionality**.
+
+### Engineering Areas
+
+* User authentication
+* Real-time messaging
+* Conversation management
+* Payment workflows
+* Transaction records
+* Secure API communication
+* Push notifications
+* Mobile-first UX
+
+### Technology Direction
+
+`React Native` `Expo` `TypeScript` `Node.js` `PostgreSQL` `Redis` `WebSockets` `Socket.IO`
+
+---
+
+# 08. 🤖 AI Video Generator
+
+**AI Application • Full-Stack Web**
+
+A TypeScript-based web application integrating AI-powered video generation workflows.
+
+### Technology
+
+`Next.js` `React` `TypeScript` `Supabase` `AI APIs`
+
+### Areas
+
+* AI-assisted content generation
+* Media generation workflows
+* API integration
+* Authentication
+* Backend services
+* Responsive UI
+* Modern web architecture
+
+---
+
+# 09. 🛒 Convenient Shop Management System
+
+A Python + CustomTkinter desktop application designed for retail management.
+
+### Features
+
+* User authentication
+* Shopping cart management
+* Dynamic dashboards
+* MySQL backend
+* Secure database operations
+* Modular UI architecture
+* Retail workflows
+
+### Technology
+
+`Python` `CustomTkinter` `MySQL`
+
+---
+
+# 10. 🎬 Online Video Store Platform
+
+A PHP + MySQL web application implementing digital commerce functionality.
+
+### Features
+
+* Customer registration
+* Authentication
+* Product/video browsing
+* Shopping cart
+* Order processing
+* Relational database design
+* Query optimization
+
+### Technology
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+---
+
+# 11. 🧠 Algorithmic Toolkit
+
+A collection of JavaScript and Python implementations for academic and practical problem solving.
+
+### Includes
+
+* Algorithms
+* Data structures
+* Greedy algorithms
+* Optimization problems
+* Computational thinking
+* Logic-based workflows
+
+### Technology
+
+`JavaScript` `Python`
+
+---
+
+# 12. 🤖 AI-Driven Automation Tools
+
+A collection of Python utilities and automation workflows for:
+
+* Workflow automation
+* Security-related tasks
+* Data processing
+* Developer productivity
+* Backend utilities
+* Intelligent automation
+
+---
+
+# 💻 Technical Expertise
+
+## 📱 Mobile Engineering
+
+`React Native` `Expo` `TypeScript` `JavaScript` `UniApp`
+
+* Cross-platform mobile development
+* Native platform integration
+* Reusable component architecture
+* Navigation
+* State management
+* REST API integration
+* Push notifications
+* Local storage and caching
+* Internationalization
+* Performance optimization
+* Android/iOS application packaging
+
+---
+
+## 🌐 Frontend Engineering
+
+`React` `Next.js` `TypeScript` `JavaScript` `Vue 3` `UniApp` `Tailwind CSS` `Element Plus` `Shadcn UI` `Vite`
+
+* Component-driven architecture
+* Responsive design
+* Design systems
+* Server/client rendering
+* API integration
+* State management
+* Form handling
+* Data visualization
+* Internationalization
+* Reusable UI systems
+* Mobile-first interfaces
+
+---
+
+## ⚙️ Backend Engineering
+
+`Laravel` `PHP` `Node.js` `TypeScript` `Spring Boot` `Java` `Python`
+
+* REST API development
+* Authentication
+* Authorization
+* JWT
+* Refresh tokens
+* OTP systems
+* Business logic
+* Workflow engines
+* Background jobs
+* Queues
+* API validation
+* Secure backend architecture
+
+---
+
+## 🗄️ Database Engineering
+
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+* Database modeling
+* Schema design
+* Relational architecture
+* Indexing
+* Query optimization
+* Database migrations
+* Data integrity
+* Transactions
+* Caching
+* Database-per-application architecture
+
+---
+
+# ☁️ Cloud, Infrastructure & Deployment
+
+### Technologies
+
+`Linux` `Ubuntu` `Nginx` `Alibaba Cloud ECS` `Alibaba OSS` `CDN` `Cloudflare` `Git` `GitHub`
+
+### Experience Areas
+
+* Linux server administration
+* Nginx configuration
+* Reverse proxy configuration
+* SSL/TLS
+* DNS configuration
+* CDN configuration
+* Object storage
+* Media delivery
+* Application deployment
+* Production environment management
+* Cloud infrastructure
+* Domain and certificate configuration
+
+---
+
+# 🔐 Security Engineering
+
+### Application Security
+
+* Secure authentication
+* Authorization and access control
+* JWT security
+* Refresh-token security
+* OTP flows
+* Input validation
+* SQL injection prevention
+* API security
+* Encryption
+* Secure database operations
+* Secure file handling
+* Defensive programming
+
+### Product Security
+
+* Security-by-design
+* Threat modeling
+* Secure SDLC
+* Vulnerability prevention
+* Security testing
+* Dependency security
+* Supply-chain security
+* Security architecture
+* Secure deployment practices
+
+---
+
+# 🤖 AI / Data / Automation
+
+`Python` `TensorFlow` `scikit-learn` `Pandas` `NumPy` `SciPy` `Matplotlib` `Plotly` `Streamlit`
+
+### Areas
+
+* Machine learning
+* Fraud detection
+* Data analysis
+* Data visualization
+* AI application integration
+* Automation
+* Intelligent workflows
+* Security analytics
+
+---
+
+# 🧰 Development Tools
+
+`Git` `GitHub` `Postman` `Figma` `Canva` `HBuilderX` `Vite` `npm` `Yarn` `NVM`
+
+### Development & Testing
+
+* Git / GitHub
+* Postman
+* REST API testing
+* Package management
+* Environment configuration
+* Version management
+* API debugging
+* Mobile development tooling
+
+---
+
+# 🏗️ Architecture & System Design
+
+I am particularly interested in designing systems around:
+
+* Modular monoliths
+* RESTful APIs
+* Distributed systems
+* White-label platforms
+* Multi-application ecosystems
+* Database-per-application architectures
+* Background jobs
+* Queue-based processing
+* Redis caching
+* CDN-based content delivery
+* Object storage
+* Media streaming
+* Authentication services
+* Digital commerce systems
+* Enterprise workflows
+* Secure system architecture
+
+---
+
+# 📚 Engineering Direction
+
+My current development path is:
+
+```text
+Mobile Engineering
+       │
+       ▼
+Full-Stack Development
+       │
+       ▼
+Backend Engineering
+       │
+       ▼
+System Design
+       │
+       ▼
+Cloud & Infrastructure
+       │
+       ▼
+Application Security
+       │
+       ▼
+Product Security
+```
+
+I am building toward the ability to independently engineer complete products across:
+
+**Frontend → Mobile → API → Backend → Database → Infrastructure → Security**
+
+---
+
+# 🎯 Professional Focus
+
+### Primary
+
+* Full-Stack Software Engineering
+* React Native / Mobile Engineering
+* React / Next.js
+* Backend Engineering
+* System Design
+* Application Security
+* Product Security
+
+### Secondary
+
+* AI-powered applications
+* Security automation
+* Cloud infrastructure
+* Data-driven systems
+* Digital commerce
+* Media/content platforms
+* Enterprise workflow systems
+
+---
+
+# 🧭 Engineering Philosophy
+
+```text
+                 GOOD SOFTWARE
+                      │
+       ┌──────────────┼──────────────┐
+       ▼              ▼              ▼
+   Architecture      UX          Security
+       │              │              │
+       └──────────────┼──────────────┘
+                      ▼
+                 Reliability
+                      │
+                      ▼
+                  Scalability
+                      │
+                      ▼
+               Production Quality
+```
+
+I believe software should be:
+
+**Maintainable • Secure • Scalable • Reliable • Performant • User-Centered**
+
+Security should be considered during architecture and development — not added only after the product is built.
+
+---
+
+# 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abdulkarimumar86@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/secureauditx)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@SecureAuditX)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/@abdul6arim)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/SecureAuditX)
+
+📧 **Email:** `abdulkarimumar86@gmail.com`
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SecureAuditX\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SecureAuditX\&theme=dark\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SecureAuditX\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
+
+### 🔝 Top Contributed Repositories
+
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=SecureAuditX\&limit=20\&theme=dark\&combine_all_yearly_contributions=true)
+
+---
+
+## 🐍 Contribution Activity
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SecureAuditX/SecureAuditX/output/github-contribution-grid-snake.svg)
+
+---
+
+### 👀 Profile Visitors
+
+![Profile Views](https://visitcount.itsvg.in/api?id=SecureAuditX\&icon=0\&color=0)
+
+---
+
+> **Build with purpose. Engineer with discipline. Secure by design.**
