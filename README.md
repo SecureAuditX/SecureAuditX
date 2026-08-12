@@ -1,6 +1,6 @@
 # 💫About Me
 
-I am ABDULKARIM UMAR, a Software Engineer and Frontend Developer (Web & Mobile) with strong competencies in frontend development, secure software and UI design, and modern cross-platform application engineering. I focus on building reliable, scalable, and security-driven systems across web, mobile, and desktop platforms, I am currently journey to Full-Stack Development for both web and mobile using React & React Native.
+I am ABDULKARIM UMAR, a Software Engineer and Full-Stack Developer (Web & Mobile), secure software and UI design, and modern cross-platform application engineering. I focus on building reliable, scalable, and security-driven systems across web, mobile, and desktop platforms, I am currently journey to Full-Stack Development for both web and mobile using React & React Native.
 
 # Core Strengths
 
