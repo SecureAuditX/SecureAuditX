@@ -63,7 +63,7 @@ The platform is designed to support **multiple independent branded applications 
 
 ### Technology
 
-`UniApp` `Vue 3` `Laravel 13` `PHP 8.4` `PostgreSQL 16` `Redis` `Nginx` `Alibaba Cloud ECS` `Alibaba OSS` `CDN` `HLS` `Vite`
+`Non-Disclosure Information`
 
 ### Engineering Areas
 
@@ -74,7 +74,7 @@ The platform is designed to support **multiple independent branded applications 
 * 📱 Android application distribution
 * 🌍 Multi-brand application architecture
 * 🗃️ Independent database per application
-* ☁️ Alibaba Cloud infrastructure
+* ☁️ _____ Cloud infrastructure
 * 📦 Object storage and CDN delivery
 * 🔐 Authentication and authorization
 * 🛠️ Centralized administration
@@ -124,7 +124,7 @@ The pre-review system uses a **deterministic rule engine** to validate applicati
 
 # 03. 📱 DayOne — Student Productivity & Health Platform
 
-**React Native • Expo • TypeScript • Mobile Product**
+** Mobile Product**
 
 DayOne is a cross-platform productivity application combining **task management, reminders, health activities, progress tracking, gamification, and global productivity insights**.
 
