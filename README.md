@@ -569,11 +569,4 @@ Security should be considered during architecture and development — not added 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS 7](https://img.shields.io/badge/CentOS%207-262577?style=for-the-badge&logo=centos&logoColor=white)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SecureAuditX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SecureAuditX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SecureAuditX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-
 > **Build with purpose. Engineer with discipline. Secure by design.**
