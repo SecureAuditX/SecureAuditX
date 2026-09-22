@@ -39,20 +39,6 @@ I developed and maintained the **UniApp/Vue mobile application** and implemented
 
 ### Architecture
 
-```text
-Independent branded mobile applications
-              │
-              ▼
-     Shared platform backend
-              │
-        ┌─────┴─────┐
-        ▼           ▼
-   Billing / API   Content services
-        │
-        ▼
-  Per-brand application data
-```
-
 ### Mobile payment flow
 
 ```text
