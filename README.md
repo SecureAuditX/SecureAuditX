@@ -1,136 +1,107 @@
 # 👋 Abdulkarim Umar
 
-### Software Engineer | Full-Stack Web & Mobile | Application & Product Security
+### Android / Mobile Software Engineer
 
-I am a **Software Engineer focused on full-stack web and cross-platform mobile application development**, with a growing specialization in **Application Security and Product Security**.
+Software Engineering student focused on **mobile application development**, **Java**, and **production software support**.
 
-I design and build software across the full product lifecycle — from **UI/UX and mobile applications to APIs, backend services, databases, cloud infrastructure, and security controls**.
+I build and maintain **production mobile applications**, including **UniApp/Vue clients**, **native Android integration in Java**, and **Google Play Billing**. I also work across APIs, backend services, and production troubleshooting for **overseas user-facing products**.
 
-My primary development stack is **React Native + Expo + TypeScript** for mobile and **React + Next.js + TypeScript** for web, supported by backend technologies including **Laravel, Node.js/TypeScript, Spring Boot, PHP, Python, PostgreSQL, MySQL, MongoDB, and Redis**.
+Primary focus: **Android / mobile engineering**, native Android payment integration, production debugging, and international application support. Backend, APIs, and security are supporting strengths.
 
-I work on both **product engineering and security-driven software development**, with an emphasis on maintainable architecture, secure implementation, scalable systems, and practical user experiences.
-
-> **Software Engineering • Mobile • Full Stack • Security • System Design**
+> **Android • Mobile • Java • Google Play Billing • Production Support • APIs**
 
 ---
 
 # 🚀 What I Do
 
-* 📱 Cross-platform mobile application development
-* 🌐 Full-stack web application development
-* ⚙️ REST API and backend engineering
-* 🗄️ Database architecture and optimization
-* 🏗️ System and application architecture
-* 🔐 Authentication, authorization, and secure API design
-* 🛡️ Application Security and Product Security
-* ☁️ Cloud infrastructure and application deployment
-* 🎬 Media streaming and content delivery systems
-* 💳 Digital commerce and payment integrations
-* 🤖 AI-powered applications and automation
-* 🧩 White-label and multi-application platforms
-* 🎨 UI/UX implementation and design systems
+* 📱 Mobile application development
+* 🤖 Native Android integration with Java
+* 💳 Google Play Billing and in-app purchase flows
+* 🛠️ Production troubleshooting and technical support
+* 🌍 International / overseas application support
+* 🔗 Mobile-to-backend API integration
+* ⚙️ REST APIs and backend services
+* 🗄️ Databases and production infrastructure
+* 🔐 Authentication, authorization, and secure production practices
+* 🧩 Multi-brand / white-label mobile platforms
 
 ---
 
-# ⭐ Featured Engineering Projects
+# ⭐ Featured Projects
 
-## 01. 📚 StoryStream — Digital Content & White-Label Platform
+## 01. 📚 StoryStream — International Mobile & Digital Content Platform
 
-**Production Content Platform • Multi-Application Architecture • Digital Commerce**
+**Production Mobile Product • Native Android Billing • Overseas Markets**
 
-StoryStream is a production-oriented digital content platform supporting **novels, comics, and video content**, developed as part of a larger white-label application ecosystem.
+StoryStream is a production multi-brand digital content platform serving overseas users through **mobile applications**. Users consume **novels, comics, and video** through a **coin-based** digital content system.
 
-The platform is designed to support **multiple independent branded applications while sharing common backend and infrastructure capabilities**.
+I developed and maintained the **UniApp/Vue mobile application** and implemented the **native Android Google Play Billing integration in Java**. The Java plugin handles initialization, product queries, purchase, purchase tokens, server verification, consumption, and restore.
 
 ### Architecture
 
 ```text
-31 Independent Mobile Applications
+Independent branded mobile applications
               │
               ▼
-      Shared Backend Codebase
-              │
-              ▼
-       Shared Admin Platform
+     Shared platform backend
               │
         ┌─────┴─────┐
         ▼           ▼
-    OSS / CDN   Shared Services
+   Billing / API   Content services
         │
         ▼
-31 Independent Databases
+  Per-brand application data
+```
+
+### Mobile payment flow
+
+```text
+Coin packages
+      │
+      ▼
+Create recharge order
+      │
+      ▼
+Google Play Billing (Java native plugin)
+      │
+      ▼
+Purchase token
+      │
+      ▼
+Backend verification
+      │
+      ▼
+Fulfillment + wallet credit
+      │
+      ▼
+Consume INAPP product
 ```
 
 ### Technology
 
-`Non-Disclosure Information`
+`UniApp` `Vue` `Java` `Android` `Google Play Billing` `Laravel` `PostgreSQL` `Redis` `Alibaba Cloud`
 
 ### Engineering Areas
 
-* 📚 Novel, comic, and video content management
-* 🎬 HLS-based video delivery
-* 💰 Coins and subscription systems
-* 💳 Google Play Billing
-* 📱 Android application distribution
-* 🌍 Multi-brand application architecture
-* 🗃️ Independent database per application
-* ☁️ _____ Cloud infrastructure
-* 📦 Object storage and CDN delivery
-* 🔐 Authentication and authorization
-* 🛠️ Centralized administration
-* 🌐 Internationalization
-* 🎨 Brand-specific application configuration
-* 📊 Synthetic-user generation
-* 📈 Content engagement simulation
-* 🔄 Background processing and scheduled workflows
-* 🔒 Backend-side validation and security controls
+* 📱 UniApp/Vue mobile application development
+* 🤖 Java native Android Google Play Billing plugin
+* 💳 Product init, query, purchase, token handling, verify, consume, restore
+* 🔗 Mobile purchase flow integrated with backend order APIs
+* 🌍 Production technical support for an international application
+* 🛠️ Diagnosis of mobile, API, payment, and release issues
+* 📚 Novel, comic, and video content on mobile
+* 💰 Coin-based digital content unlock
+* ☁️ Production infrastructure and content delivery
 
-This project involves **production application engineering, digital commerce, cloud infrastructure, mobile distribution, content systems, media delivery, and large-scale application architecture**.
+This project is **production mobile engineering**: Java native Android billing, mobile–backend integration, overseas users, and ongoing technical support.
 
 ---
 
-# 02. 🛡️ IRB_Smart — Clinical Research & Ethics Management Platform
+## 02. 📱 DayOne — Student Productivity & Health Platform
 
-**Enterprise Application • Workflow Management • Secure Backend Engineering**
-
-IRB_Smart is a clinical research and ethics management platform designed to manage **research applications, ethics review, researcher workflows, meetings, decisions, attachments, and pre-review processes**.
-
-### Technology
-
-`Next.js 15` `TypeScript` `Tailwind CSS v4` `Shadcn UI` `Recharts` `Spring Boot` `Java` `PostgreSQL` `Flyway` `JWT`
-
-### Engineering Areas
-
-* 🧑‍🔬 Researcher application management
-* 📋 Amendment workflows
-* 🔄 Annual continuing-review workflows
-* 🔎 AI-assisted pre-review
-* ⚙️ Rule-engine based validation
-* 📎 Required field and attachment validation
-* 📊 Application scoring
-* 📝 Decision letters
-* 🗓️ Researcher meetings
-* 📑 Agenda and application relationships
-* 🔐 JWT authentication
-* 🗄️ PostgreSQL architecture
-* 🔄 Flyway database migrations
-* 🧩 Modular Spring Boot architecture
-* 🏗️ REST API design
-* 🛡️ Secure enterprise workflow implementation
-
-The pre-review system uses a **deterministic rule engine** to validate application completeness, required information, and required attachments rather than relying solely on generative AI.
-
----
-
-# 03. 📱 DayOne — Student Productivity & Health Platform
-
-** Mobile Product**
+**Mobile Product**
 
 DayOne is a cross-platform productivity application combining **task management, reminders, health activities, progress tracking, gamification, and global productivity insights**.
-
-### Technology
-
-`Non-Disclosure Information`
 
 ### Product Areas
 
@@ -148,35 +119,42 @@ DayOne is a cross-platform productivity application combining **task management,
 * 🌙 Automatic theme detection
 * 📱 Mobile-first UX
 
-### Engineering Areas
-
-* Non-Disclosure Information
-
-### Technology Direction
+### Technology / Engineering
 
 `Non-Disclosure Information`
 
 ---
 
-# 04. 💬 Real-Time Chat & Payment Application - coming soon...2027
+## 03. 🛡️ IRB_Smart — Clinical Research & Ethics Management Platform
 
-**Mobile Application • Real-Time Communication • Digital Payments**
+**Enterprise Application • Workflow Management • Team Delivery**
 
-A planned mobile product combining **real-time communication with digital payment functionality**.
+IRB_Smart is a clinical research and ethics management platform for **research applications, ethics review, researcher workflows, meetings, decisions, attachments, and pre-review processes**.
+
+I led an **8-person software engineering team** delivering the platform, and implemented/reviewed **authentication, API flows, and database-backed business workflows**.
+
+### Technology
+
+`Next.js 15` `TypeScript` `Tailwind CSS v4` `Shadcn UI` `Recharts` `Spring Boot` `Java` `PostgreSQL` `Flyway` `JWT`
 
 ### Engineering Areas
 
-* Non-Disclosure Information
-
-### Technology Direction
-
-`Non-Disclosure Information`
+* 🧑‍🔬 Researcher application management
+* 📋 Amendment and continuing-review workflows
+* ⚙️ Rule-engine based validation
+* 📎 Required field and attachment validation
+* 📝 Decision letters and meetings
+* 🔐 JWT authentication
+* 🗄️ PostgreSQL architecture
+* 🔄 Flyway database migrations
+* 🏗️ REST API design
+* 👥 Team coordination, debugging, and delivery
 
 ---
 
-# 05. 🤖 AI Video Generator
+## 04. 🤖 AI Video Generator
 
-**AI Application • Full-Stack Web**
+**Web Application • API Integration**
 
 A TypeScript-based web application integrating AI-powered video generation workflows.
 
@@ -192,13 +170,12 @@ A TypeScript-based web application integrating AI-powered video generation workf
 * Authentication
 * Backend services
 * Responsive UI
-* Modern web architecture
 
 ---
 
-# 06. 🛒 Convenient Shop Management System
+## 05. 🛒 Convenient Shop Management System
 
-A Python + CustomTkinter desktop application designed for retail management.
+A Python + CustomTkinter desktop application for retail management.
 
 ### Features
 
@@ -206,7 +183,6 @@ A Python + CustomTkinter desktop application designed for retail management.
 * Shopping cart management
 * Dynamic dashboards
 * MySQL backend
-* Secure database operations
 * Modular UI architecture
 * Retail workflows
 
@@ -216,9 +192,9 @@ A Python + CustomTkinter desktop application designed for retail management.
 
 ---
 
-# 07. 🎬 Online Video Store Platform
+## 06. 🎬 Online Video Store Platform
 
-A PHP + MySQL web application implementing digital commerce functionality.
+A PHP + MySQL web application for digital commerce.
 
 ### Features
 
@@ -228,7 +204,6 @@ A PHP + MySQL web application implementing digital commerce functionality.
 * Shopping cart
 * Order processing
 * Relational database design
-* Query optimization
 
 ### Technology
 
@@ -236,9 +211,9 @@ A PHP + MySQL web application implementing digital commerce functionality.
 
 ---
 
-# 08. 🧠 Algorithmic Toolkit
+## 07. 🧠 Algorithmic Toolkit
 
-A collection of JavaScript and Python implementations for academic and practical problem solving.
+JavaScript and Python implementations for academic and practical problem solving.
 
 ### Includes
 
@@ -247,7 +222,6 @@ A collection of JavaScript and Python implementations for academic and practical
 * Greedy algorithms
 * Optimization problems
 * Computational thinking
-* Logic-based workflows
 
 ### Technology
 
@@ -255,221 +229,98 @@ A collection of JavaScript and Python implementations for academic and practical
 
 ---
 
-
 # 💻 Technical Expertise
 
-## 📱 Mobile Engineering
+## 📱 Mobile & Android
 
-`React Native` `Expo` `TypeScript` `JavaScript` `UniApp`
+`Java` `UniApp` `React Native` `Expo` `Android SDK` `Google Play Billing` `JavaScript`
 
-* Cross-platform mobile development
-* Native platform integration
-* Reusable component architecture
-* Navigation
-* State management
-* REST API integration
-* Push notifications
-* Local storage and caching
+* Mobile application development
+* Native Android integration in Java
+* Google Play Billing (init, query, purchase, verify, consume, restore)
+* Cross-platform clients with UniApp and React Native
+* REST API integration from mobile
+* Production troubleshooting
+* Android application packaging and release support
 * Internationalization
-* Performance optimization
-* Android/iOS application packaging
+* State management and reusable components
 
 ---
 
-## 🌐 Frontend Engineering
+## ☕ Languages
 
-`React` `Next.js` `TypeScript` `JavaScript` `Vue 3` `UniApp` `Tailwind CSS` `Element Plus` `Shadcn UI` `Vite`
-
-* Component-driven architecture
-* Responsive design
-* Design systems
-* Server/client rendering
-* API integration
-* State management
-* Form handling
-* Data visualization
-* Internationalization
-* Reusable UI systems
-* Mobile-first interfaces
+`Java` `JavaScript` `TypeScript` `PHP` `Python` `SQL`
 
 ---
 
-## ⚙️ Backend Engineering
+## 🔗 Backend & APIs
 
-`Laravel` `PHP` `Node.js` `TypeScript` `Spring Boot` `Java` `Python`
+`Laravel` `Spring Boot` `REST APIs` `JWT` `OAuth`
 
-* REST API development
-* Authentication
-* Authorization
-* JWT
-* Refresh tokens
-* OTP systems
-* Business logic
-* Workflow engines
-* Background jobs
-* Queues
-* API validation
-* Secure backend architecture
+* API integration with mobile clients
+* Authentication and authorization
+* Order / payment verification APIs
+* Business logic and validation
+* Background jobs and production services
 
 ---
 
-## 🗄️ Database Engineering
+## 🗄️ Databases & Infrastructure
 
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
+`PostgreSQL` `MySQL` `Redis` `Linux` `Nginx` `Alibaba Cloud OSS/CDN` `Cloudflare`
 
-* Database modeling
-* Schema design
-* Relational architecture
-* Indexing
-* Query optimization
-* Database migrations
-* Data integrity
-* Transactions
+* Schema design and query work
 * Caching
-* Database-per-application architecture
+* Object storage and CDN delivery
+* Linux / Nginx production environments
+* Application deployment and release validation
 
 ---
 
-# ☁️ Cloud, Infrastructure & Deployment
+## 🛠️ Engineering & Support
 
-### Technologies
+`Git` `debugging` `production troubleshooting` `API testing` `HBuilderX` `Postman`
 
-`Linux` `Ubuntu` `Nginx` `Alibaba Cloud ECS` `Alibaba OSS` `CDN` `Cloudflare` `Git` `GitHub`
-
-### Experience Areas
-
-* Linux server administration
-* Nginx configuration
-* Reverse proxy configuration
-* SSL/TLS
-* DNS configuration
-* CDN configuration
-* Object storage
-* Media delivery
-* Application deployment
-* Production environment management
-* Cloud infrastructure
-* Domain and certificate configuration
+* Production issue diagnosis
+* Mobile / API / payment failure investigation
+* Release validation
+* Technical support for overseas production applications
 
 ---
 
-# 🔐 Security Engineering
+## 🔐 Security (supporting)
 
-### Application Security
+Authentication & authorization · API security · secure coding · OWASP Top 10 · TLS · access control
 
-* Secure authentication
-* Authorization and access control
-* JWT security
-* Refresh-token security
-* OTP flows
-* Input validation
-* SQL injection prevention
-* API security
-* Encryption
-* Secure database operations
-* Secure file handling
-* Defensive programming
-
-### Product Security
-
-* Security-by-design
-* Threat modeling
-* Secure SDLC
-* Vulnerability prevention
-* Security testing
-* Dependency security
-* Supply-chain security
-* Security architecture
-* Secure deployment practices
+Relevant to **production mobile and payment software**, not the primary profile identity.
 
 ---
 
-# 🤖 AI / Data / Automation
-
-`Python` `TensorFlow` `scikit-learn` `Pandas` `NumPy` `SciPy` `Matplotlib` `Plotly` `Streamlit`
-
-### Areas
-
-* Machine learning
-* Fraud detection
-* Data analysis
-* Data visualization
-* AI application integration
-* Automation
-* Intelligent workflows
-* Security analytics
-
----
-
-# 🧰 Development Tools
-
-`Git` `GitHub` `Postman` `Figma` `Canva` `HBuilderX` `Vite` `npm` `Yarn` `NVM`
-
-### Development & Testing
-
-* Git / GitHub
-* Postman
-* REST API testing
-* Package management
-* Environment configuration
-* Version management
-* API debugging
-* Mobile development tooling
-
----
-
-# 🏗️ Architecture & System Design
-
-I am particularly interested in designing systems around:
-
-* Modular monoliths
-* RESTful APIs
-* Distributed systems
-* White-label platforms
-* Multi-application ecosystems
-* Database-per-application architectures
-* Background jobs
-* Queue-based processing
-* Redis caching
-* CDN-based content delivery
-* Object storage
-* Media streaming
-* Authentication services
-* Digital commerce systems
-* Enterprise workflows
-* Secure system architecture
-
----
-
-# 📚 Engineering Direction
-
-My current development path is:
+# 🧭 Engineering Direction
 
 ```text
-Mobile Engineering
-       │
-       ▼
-Full-Stack Development
-       │
-       ▼
-Backend Engineering
-       │
-       ▼
-System Design
-       │
-       ▼
-Cloud & Infrastructure
-       │
-       ▼
-Application Security
-       │
-       ▼
-Product Security
+Mobile application development
+              │
+              ▼
+Java / native Android integration
+              │
+              ▼
+Production payment integration
+              │
+              ▼
+Production troubleshooting
+              │
+              ▼
+International application support
+              │
+              ▼
+API / backend integration
+              │
+              ▼
+Software engineering fundamentals
 ```
 
-I am building toward the ability to independently engineer complete products across:
-
-**Frontend → Mobile → API → Backend → Database → Infrastructure → Security**
+I am a **Software Engineering student (expected July 2027)** targeting **Android / mobile software engineering**.
 
 ---
 
@@ -477,96 +328,57 @@ I am building toward the ability to independently engineer complete products acr
 
 ### Primary
 
-* Full-Stack Software Engineering
-* React Native / Mobile Engineering
-* React / Next.js
-* Backend Engineering
-* System Design
-* Application Security
-* Product Security
+* Android / Mobile Software Engineering
+* Java
+* Native Android integration
+* Google Play Billing
+* Production mobile applications
+* Production troubleshooting and technical support
 
-### Secondary
+### Supporting
 
-* AI-powered applications
-* Security automation
-* Cloud infrastructure
-* Data-driven systems
-* Digital commerce
-* Media/content platforms
-* Enterprise workflow systems
-
----
-
-# 🧭 Engineering Philosophy
-
-```text
-                 GOOD SOFTWARE
-                      │
-       ┌──────────────┼──────────────┐
-       ▼              ▼              ▼
-   Architecture      UX          Security
-       │              │              │
-       └──────────────┼──────────────┘
-                      ▼
-                 Reliability
-                      │
-                      ▼
-                  Scalability
-                      │
-                      ▼
-               Production Quality
-```
-
-I believe software should be:
-
-**Maintainable • Secure • Scalable • Reliable • Performant • User-Centered**
-
-Security should be considered during architecture and development — not added only after the product is built.
+* REST APIs and backend integration
+* Databases and cloud infrastructure
+* Secure production practices
+* Cross-platform mobile (UniApp, React Native / Expo)
+* System design for multi-brand mobile products
 
 ---
 
 # 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abdulkarimumar86@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/secureauditx)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@SecureAuditX)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/@abdul6arim)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/SecureAuditX)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulkarimumar86@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/secureauditx)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SecureAuditX)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@abdul6arim)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SecureAuditX)
 
 📧 **Email:** `abdulkarimumar86@gmail.com`
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)       
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CentOS 7](https://img.shields.io/badge/CentOS%207-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-> **Build with purpose. Engineer with discipline. Secure by design.**
+> **Build mobile software that ships. Debug what breaks in production.**
