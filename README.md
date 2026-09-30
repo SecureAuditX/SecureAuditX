@@ -1,6 +1,6 @@
 # 👋 Abdulkarim Umar
 
-### Android / Mobile Software Engineer
+### Android / Mobile Software Engineer - 移动软件工程师
 
 Software Engineering student focused on **mobile application development**, **Java**, and **production software support**.
 
