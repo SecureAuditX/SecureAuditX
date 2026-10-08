@@ -1,6 +1,6 @@
 # 👋 Abdulkarim Umar
 
-### Android / Mobile Software Engineer | Mobile Application Pentester - 移动软件工程师 / 移动应用渗透测试工程师
+### Mobile Software Engineer | Mobile App Penetration Tester - 移动软件工程师 / 移动应用渗透测试工程师
 
 Software Engineering student focused on **mobile application development**, **Java**, and **production software support**.
 
